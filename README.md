@@ -8,3 +8,4 @@
 
 ## 可视化报告效果
 ![新型肺炎疫情实时数据分析报告](http://media.graphvis.cn/D806C888-AAAF-4342-BC58-734138E898A2.png)
+![avatar](http://baidu.com/pic/doge.png)
