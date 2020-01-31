@@ -1,6 +1,7 @@
 # SARI 可视化分析报告
 
 主页：[SARI疫情实时数据 www.graphvis.cn/sari/index.html](http://www.graphvis.cn/sari/index.html)
+
 效果图:[疫情分布可视化效果图](http://media.graphvis.cn/D806C888-AAAF-4342-BC58-734138E898A2.png)
 
 基于百度实时数据进行疫情分布及趋势的可视化分析报告，方便人们直观的查看每日疫情变化发展情况，从数据层面了解整个防控措施的成果。
