@@ -10,3 +10,6 @@
 
 ## 可视化报告效果
 ![新型肺炎疫情实时数据分析报告](http://media.graphvis.cn/D806C888-AAAF-4342-BC58-734138E898A2.png)
+
+![2019-nCov可视化分析](http://media.graphvis.cn/20200204085148.png)
+
